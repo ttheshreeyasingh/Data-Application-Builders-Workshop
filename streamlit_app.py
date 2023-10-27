@@ -1,6 +1,6 @@
 import streamlit
 import pandas as pd
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('My Mom's New Healthy Dinner')
 
 streamlit.header('Breakfast Favourites')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
